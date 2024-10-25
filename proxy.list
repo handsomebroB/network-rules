@@ -43,15 +43,6 @@ DOMAIN-SUFFIX,lianjiasub.work
 DOMAIN-SUFFIX,muniucloud.pro
 DOMAIN-SUFFIX,kuajing.uk
 DOMAIN-SUFFIX,metacubex.one
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,emby.media
-DOMAIN-SUFFIX,tuboshu.xyz
-DOMAIN-SUFFIX,okjc.one
-DOMAIN-SUFFIX,bygcloud.com
-DOMAIN-SUFFIX,bulianglin.com
-DOMAIN-SUFFIX,myavlive.com
-DOMAIN-SUFFIX,coreelec.org
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
